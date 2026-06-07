@@ -10,7 +10,7 @@ A security review of the `PasswordStore` smart contract protocol, conducted by *
 
 This repository contains a comprehensive security audit of the `PasswordStore.sol` contract. The audit identifies several critical vulnerabilities that could lead to complete loss of privacy and unauthorized access.
 
-- **Lead Auditor:** [Nandini Gupta](https://github.com)
+- **Lead Auditor:** [Nandini Gupta](https://github.com/Nandini99-git)
 - **Timeframe:** June 2026
 - **Status:** Completed
 - **Commit Hash:** `2e8f81e263b3a9d18fab4fb5c46805ffc10a9990`

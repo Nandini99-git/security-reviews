@@ -35,7 +35,7 @@ The audit discovered a total of **4 issues**, ranging from architectural flaws t
 
 The full PDF version of the audit report, including Proof of Concepts (PoC) and detailed mitigation steps, can be found here:
 
-👉 **[Download the PDF Audit Report](./report.pdf)**
+👉 **[Download the PDF Audit Report](./PasswordStore-audit.pdf)**
 
 ## 🛠️ Tools Used
 - **Foundry / Cast** (for storage exploitation & testing)
